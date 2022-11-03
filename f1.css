@@ -40,12 +40,12 @@ a:hover{
     list-style: none;
 }
 p{
-    text-indent: 3%;
+    text-indent: 10px;
     line-height: 1.5;
 }
-td, .ban{
+td{
     border-bottom: 1px dotted gray;
 }
-table, .ban{
+table{
     width: 50%;
 }
